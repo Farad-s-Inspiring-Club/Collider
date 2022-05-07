@@ -1,6 +1,6 @@
-<img src="./Spakus logo/bitmap/Spakus-reverse-filled.png" alt="Logo of the project" width="120" height="120" align="right" style="border-radius:10px;" />
-
 # Collider &middot; [![GitHub](https://img.shields.io/github/license/Spakus-Team/Collider)](https://github.com/Spakus-Team/Collider/blob/main/LICENSE)
+
+<img src="./Spakus logo/bitmap/Spakus-reverse-filled.png" alt="Logo of the project" width="120" height="120" align="right" style="border-radius:10px;" />
 
 > A brend new UI theme for Spakus.
 
